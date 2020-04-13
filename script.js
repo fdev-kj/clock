@@ -1,6 +1,6 @@
-const secondsDiv = document.getElementById('seconds');
-const minutesDiv = document.querySelector('#minutes');
-const hoursDiv = document.querySelector('#hours');
+const spacing = document.getElementById('spacing');
+const minutesDiv = document.getElementById('minutes');
+const hoursDiv = document.getElementById('hours');
 
 const init = () => {
   const date = new Date();
